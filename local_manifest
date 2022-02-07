@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/hero2lte/samsung" name="Morchid/android_device_hero2lte_samsung.git" remote="github" revision="OctaviOS-3.3" />
+ <project path="device/hero2lte/exynos8890-common" name="Morchid/android_device_hero2lte_exynos8890-common.git" remote="github" revision="OctaviOS-3.3" />
+ <project path="vendor/hero2lte" name="Morchid/android_vendor_exynos8890.git" remote="github" revision="master" />
+ <project path="kernel/hero2lte/samsung" name="hero2lteDevs/android_kernel_hero2lte_samsung-3.18.git" remote="github" revision="lineage-18.1" />
+ 
+</manifest>
